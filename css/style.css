@@ -17,7 +17,7 @@
 }
 
 .headerContainer{
-    background-color: #0057B7;
+    background-color: #334d65;
     height: 80px;
     width: 100%;
     display: flex;
@@ -47,7 +47,7 @@
 }
 
 .containerMid{
-    background-color: #FF1493;
+    background-color: #a4c2e2;
     width: 100%;
     min-height: 100vh;
     height: auto;
@@ -67,7 +67,7 @@
 
 .containerMid h3, .containerMid p, .containerMid h4,.containerMid h5,.containerMid a{
     padding-top: 10px;
-    color: white;
+    color: #334d65;
     text-align: justify;
     text-decoration: none;
 }
@@ -77,7 +77,7 @@
 }
 
 .containerMid li{
-    color: white;
+    color: #334d65;
     padding-top: 10px;
     font-size: 20px;
 }
